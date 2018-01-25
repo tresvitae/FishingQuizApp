@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fishing Quiz App</string>
+    <string name="burbot">Tatlı su gelinciği</string>
+    <string name="pike">Turna balığı</string>
+    <string name="zander">Sudak balığı</string>
+    <string name="brown_bullhead">Kedi yayın balığı</string>
+    <string name="ruffe">Trakya levreği</string>
+    <string name="vimba_vimba">Eğrez balığı</string>
+    <string name="european_eel">Yılan balığı</string>
+    <string name="wellcome2">Sizin adiniz ne?</string>
+    <string name="submit">Gönder</string>
+    <string name="su_window">Tebrikler!</string>
+    <string name="su_window2">"Başardınız "</string>
+    <string name="wellcome1">Benim quizim hoş geldiniz!</string>
+    <string name="fly_fishing">Sinek oltacılığı</string>
+    <string name="coarse_fishing">Normal balıkçılığı</string>
+    <string name="title">Polonyanın nehirleri ve gölleri ihtiyofauna.</string>
+    <string name="question1">1. Lehçe\'nin ichthyofaunasında sunulan balıklardan hangisi en büyüğüdür?</string>
+    <string name="question2">2. Sunulan balıklardan hangisi zararlı olarak değerlendirilir?</string>
+    <string name="question3">3. Fotoğrafta hangi balıkları görüyorsun?</string>
+    <string name="question4">4. Yapay yemleri (spinnerbait gibi) balıkçılık hattına atmak ve sarmak ile karakterize edilen hangi yöntem nedir?</string>
+    <string name="question5">5. Kaç sınırlı av balıkları avlayabilir ve bir günde kaçırabilirsin?</string>
+    <string name="question6">6. Hangi photografta kızılgöz görebilirsiniz?</string>
+    <string name="question7">7. Polonya\'nın amatör balıkçılığı yönetmeliklerine göre, hangi balık avcılığının yasak olduğu?</string>
+]</resources>

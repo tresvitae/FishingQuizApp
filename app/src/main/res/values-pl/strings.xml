@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fishing Quiz App</string>
+    <string name="title">Ichitiofauna Polskich wód i jezior</string>
+    <string name="question1">1. Która z poniższych ryb jest najwiekszą rybą Polskich wód?</string>
+    <string name="question2">2. Która z poniższych ryb jest szkodnikiem?</string>
+    <string name="question3">3. Jaką rybę widzisz na poniższym zdjęciu?</string>
+    <string name="question4">4. Która z metod charakteryzuje się ciągłym rzucaniem sztucznej przynęty (tj. wobbler) i zwijaniem jej?</string>
+    <string name="question6">6. Które zdjęcie przedstawia leszcza?</string>
+    <string name="question5">5. Jaki jesty dzienny limit połowów ryb, które można zabrać ze sobą?</string>
+    <string name="question7">7. Według polskiej ustawy o rybołówstwie, które z metod połowów są zakazane?</string>
+    <string name="q7ToAns2">ikra</string>
+    <string name="q7ToAns3">chronione zwierzeta i rośliny</string>
+    <string name="q7ToAns1">naturalne przynęty wędkarskie</string>
+    <string name="fly_fishing">Wędkarstwo muchowe</string>
+    <string name="spin_fishing">Wędkarstwo spinningowe</string>
+    <string name="coarse_fishing">Wędkarstwo spławikowo-gruntowe</string>
+    <string name="zander">Sandacz</string>
+    <string name="pike">Szczupak</string>
+    <string name="brown_bullhead">Sumik karłowaty</string>
+    <string name="ruffe">Jazgarz</string>
+    <string name="vimba_vimba">Certa</string>
+    <string name="european_eel">Węgorz europejski</string>
+    <string name="burbot">Miętus pospolity</string>
+    <string name="wellcome1">Witaj w moim quizie, przyjacielu!</string>
+    <string name="wellcome2">Wprowadź swoję imię i zaczynamy!</string>
+    <string name="submit">Potwierdź</string>
+    <string name="su_window">Gratuluję</string>
+    <string name="su_window2">"Twój wynik to "</string>
+    <string name="wels_catfish">Sum</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--General Strings -->
+
+    <string name="app_name">Fishing Quiz App</string>
+    <string name="title">Ichthyofauna of Polish lakes and rivers</string>
+    <string name="question1">1. Which of presented fishes is the biggest in Polish ichthyofauna?</string>
+    <string name="question2">2. Which of presented fishes is considered a pest?</string>
+    <string name="question3">3. What fish do you see on photo?</string>
+    <string name="question4">4. Which method is characterized by throwing artificial bait (such as spinnerbait) on the fishing line and coil it up?</string>
+    <string name="question5">5. How many limited-hunting fishes can you fish out and take away per day?</string>
+    <string name="question6">6. On which photo can you see common roach?</string>
+    <string name="question7">7. According to Polish regulations of Amateur Fishing, which type of fish hunting is forbidden?</string>
+    <string name="q7ToAns1">natural fishing baits</string>
+    <string name="q7ToAns2">roe</string>
+    <string name="q7ToAns3">protected animals and plants</string>
+    <string name="fly_fishing">Fly Fishing</string>
+    <string name="coarse_fishing">Coarse fishing</string>
+    <string name="spin_fishing">Spin fishing</string>
+    <string name="wels_catfish">Wels Catfish</string>
+    <string name="zander">Zander</string>
+    <string name="pike">Northern Pike</string>
+    <string name="brown_bullhead">Brown Bullhead</string>
+    <string name="ruffe">Ruffe</string>
+    <string name="vimba_vimba">Vimba vimba</string>
+    <string name="european_eel">European eel</string>
+    <string name="burbot">Burbot</string>
+    <string name="wellcome1">Welcome in my quiz, fellow</string>
+    <string name="wellcome2">Please, enter your name and let\'s start!!!</string>
+    <string name="submit">Submit</string>
+    <string name="su_window">Congratulations, <xliff:g example="Patryk" id="name">%s</xliff:g>!</string>
+    <string name="su_window2">You achieved <xliff:g example="0" id="totalPoints">%s</xliff:g> out of 16 points!</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4679df">
+
+    <TextView
+        android:id="@+id/su_window"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/su_window2"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/su_window" />
+
+    <TextView
+        android:id="@+id/su_window2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/su_window2"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/su_window3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/su_window4"
+        android:layout_alignBottom="@+id/su_window2"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="su_window3"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/su_window4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/su_window3"
+        android:layout_below="@+id/su_window2"
+        android:text="su_window4"
+        android:textSize="15sp" />
+</RelativeLayout>
