@@ -37,8 +37,21 @@
         android:id="@+id/su_window4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_toEndOf="@+id/su_window3"
         android:layout_below="@+id/su_window2"
+        android:layout_toEndOf="@+id/su_window3"
         android:text="su_window4"
         android:textSize="15sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/su_window4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:background="@android:color/black"
+        android:onClick="sendEmail"
+        android:scrollHorizontally="true"
+        android:text="@string/send_email"
+        android:textAllCaps="true"
+        android:textColor="#3D51B4" />
 </RelativeLayout>

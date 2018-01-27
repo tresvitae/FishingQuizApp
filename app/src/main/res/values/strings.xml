@@ -29,4 +29,5 @@
     <string name="submit">Submit</string>
     <string name="su_window">Congratulations, <xliff:g example="Patryk" id="name">%s</xliff:g>!</string>
     <string name="su_window2">You achieved <xliff:g example="0" id="totalPoints">%s</xliff:g> out of 16 points!</string>
+    <string name="send_email">Send e-mail</string>
 </resources>

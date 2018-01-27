@@ -26,6 +26,7 @@
                 android:layout_marginRight="5dp"
                 android:gravity="center"
                 android:text="@string/question1"
+                android:textColor="#3D51B4"
                 android:textSize="25sp" />
 
 
@@ -39,7 +40,7 @@
                     android:id="@+id/q1_answer1"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
                     android:layout_weight="1"
                     android:background="@drawable/pike"
                     android:gravity="bottom" />
@@ -48,7 +49,7 @@
                     android:id="@+id/q1_answer2"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
                     android:layout_weight="1"
                     android:background="@drawable/zander"
                     android:gravity="bottom" />
@@ -57,6 +58,7 @@
                     android:id="@+id/q1_answer3"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
+                    android:layout_marginEnd="5dp"
                     android:layout_weight="1"
                     android:background="@drawable/wels_catfish"
                     android:gravity="bottom" />
@@ -77,6 +79,7 @@
                 android:layout_marginTop="25dp"
                 android:gravity="center"
                 android:text="@string/question2"
+                android:textColor="#3D51B4"
                 android:textSize="25sp" />
 
             <RadioGroup
@@ -88,7 +91,7 @@
                     android:id="@+id/q2_answer1"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
                     android:layout_weight="1"
                     android:background="@drawable/brown_bullhead"
                     android:gravity="bottom"
@@ -99,7 +102,7 @@
                     android:id="@+id/q2_answer2"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
                     android:layout_weight="1"
                     android:background="@drawable/ruffe"
                     android:gravity="bottom"
@@ -109,6 +112,7 @@
                     android:id="@+id/q2_answer3"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
+                    android:layout_marginEnd="5dp"
                     android:layout_weight="1"
                     android:background="@drawable/vimba_vimba"
                     android:gravity="bottom"
@@ -130,6 +134,7 @@
                 android:layout_marginTop="25dp"
                 android:gravity="center"
                 android:text="@string/question3"
+                android:textColor="#3D51B4"
                 android:textSize="25sp" />
 
             <ImageView
@@ -148,7 +153,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_weight="1"
-                    android:text="@string/european_eel" />
+                    android:text="@string/european_eel"
+                    android:textColor="#3D51B4" />
 
                 <RadioButton
                     android:id="@+id/q3_answer2"
@@ -156,7 +162,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_weight="1"
-                    android:text="@string/burbot" />
+                    android:text="@string/burbot"
+                    android:textColor="#3D51B4" />
 
                 <RadioButton
                     android:id="@+id/q3_answer3"
@@ -164,7 +171,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_weight="1"
-                    android:text="@string/wels_catfish" />
+                    android:text="@string/wels_catfish"
+                    android:textColor="#3D51B4" />
             </RadioGroup>
         </LinearLayout>
 
@@ -182,6 +190,7 @@
                 android:layout_marginTop="25dp"
                 android:gravity="center"
                 android:text="@string/question4"
+                android:textColor="#3D51B4"
                 android:textSize="25sp" />
 
             <RadioGroup
@@ -195,7 +204,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_weight="1"
-                    android:text="@string/fly_fishing" />
+                    android:text="@string/fly_fishing"
+                    android:textColor="#3D51B4" />
 
                 <RadioButton
                     android:id="@+id/q4_answer2"
@@ -203,7 +213,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_weight="1"
-                    android:text="@string/coarse_fishing" />
+                    android:text="@string/coarse_fishing"
+                    android:textColor="#3D51B4" />
 
                 <RadioButton
                     android:id="@+id/q4_answer3"
@@ -211,7 +222,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_weight="1"
-                    android:text="@string/spin_fishing" />
+                    android:text="@string/spin_fishing"
+                    android:textColor="#3D51B4" />
             </RadioGroup>
         </LinearLayout>
 
@@ -229,6 +241,7 @@
                 android:layout_marginTop="25dp"
                 android:gravity="center"
                 android:text="@string/question5"
+                android:textColor="#3D51B4"
                 android:textSize="25sp" />
 
             <RadioGroup
@@ -242,7 +255,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_weight="1"
-                    android:text="10" />
+                    android:text="10"
+                    android:textColor="#3D51B4" />
 
                 <RadioButton
                     android:id="@+id/q5_answer2"
@@ -250,7 +264,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_weight="1"
-                    android:text="12" />
+                    android:text="12"
+                    android:textColor="#3D51B4" />
 
                 <RadioButton
                     android:id="@+id/q5_answer3"
@@ -258,7 +273,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_weight="1"
-                    android:text="8" />
+                    android:text="8"
+                    android:textColor="#3D51B4" />
             </RadioGroup>
         </LinearLayout>
 
@@ -276,6 +292,7 @@
                 android:layout_marginTop="25dp"
                 android:gravity="center"
                 android:text="@string/question6"
+                android:textColor="#3D51B4"
                 android:textSize="25sp" />
 
             <RadioGroup
@@ -287,7 +304,7 @@
                     android:id="@+id/q6_answer1"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
                     android:layout_weight="1"
                     android:background="@drawable/common_bream"
                     android:gravity="bottom"
@@ -297,7 +314,7 @@
                     android:id="@+id/q6_answer2"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:layout_marginRight="5dp"
+                    android:layout_marginEnd="5dp"
                     android:layout_weight="1"
                     android:background="@drawable/common_roach"
                     android:gravity="bottom" />
@@ -306,6 +323,7 @@
                     android:id="@+id/q6_answer3"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
+                    android:layout_marginEnd="5dp"
                     android:layout_weight="1"
                     android:background="@drawable/common_rudd"
                     android:gravity="bottom"
@@ -327,6 +345,7 @@
                 android:layout_marginTop="25dp"
                 android:gravity="center"
                 android:text="@string/question7"
+                android:textColor="#3D51B4"
                 android:textSize="25sp" />
 
             <CheckBox
@@ -336,6 +355,7 @@
                 android:layout_weight="1"
                 android:text="@string/q7ToAns1"
                 android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="#3D51B4"
                 android:textSize="16sp" />
 
             <CheckBox
@@ -345,6 +365,7 @@
                 android:layout_weight="1"
                 android:text="@string/q7ToAns2"
                 android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="#3D51B4"
                 android:textSize="16sp" />
 
             <CheckBox
@@ -354,6 +375,7 @@
                 android:layout_weight="1"
                 android:text="@string/q7ToAns3"
                 android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="#3D51B4"
                 android:textSize="16sp" />
         </LinearLayout>
 
@@ -369,7 +391,7 @@
             android:scrollHorizontally="true"
             android:text="@string/submit"
             android:textAllCaps="true"
-            android:textColor="@android:color/white"
+            android:textColor="#3D51B4"
             tools:ignore="OnClick" />
     </LinearLayout>
 </ScrollView>

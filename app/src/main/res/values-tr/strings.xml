@@ -23,4 +23,6 @@
     <string name="question5">5. Kaç sınırlı av balıkları avlayabilir ve bir günde kaçırabilirsin?</string>
     <string name="question6">6. Hangi photografta kızılgöz görebilirsiniz?</string>
     <string name="question7">7. Polonya\'nın amatör balıkçılığı yönetmeliklerine göre, hangi balık avcılığının yasak olduğu?</string>
-]</resources>
+    <string name="send_email">"E-mail gönderir"</string>
+    ]
+</resources>

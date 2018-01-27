@@ -28,4 +28,5 @@
     <string name="su_window">Gratuluję</string>
     <string name="su_window2">"Twój wynik to "</string>
     <string name="wels_catfish">Sum</string>
+    <string name="send_email">Wyslij e-mail</string>
 </resources>

@@ -21,6 +21,7 @@
             android:layout_marginTop="20dp"
             android:gravity="center"
             android:text="@string/title"
+            android:textColor="#3D51B4"
             android:textSize="35sp"
             android:textStyle="bold" />
 
@@ -62,6 +63,7 @@
         android:background="@android:color/black"
         android:onClick="letsStart"
         android:text="Lets Start"
-        android:textAllCaps="true" />
+        android:textAllCaps="true"
+        android:textColor="#3D51B4" />
 
 </RelativeLayout>
