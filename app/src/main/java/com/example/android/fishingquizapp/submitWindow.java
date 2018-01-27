@@ -59,12 +59,12 @@ public class submitWindow extends AppCompatActivity {
         SharedPreferences pref = getApplicationContext().getSharedPreferences("MyPref", MODE_PRIVATE);
         String name = pref.getString("name", "");
 
-        String messageToEmail = displayScore(name, message2, message, totalPoints);
+        scoreToEmail = "Hello " + name + "\n" + message + "\n" + message2 + totalPoints;
 
         Intent email = new Intent(Intent.ACTION_SENDTO);
         email.setData(Uri.parse("mailto:"));
         email.putExtra(Intent.EXTRA_SUBJECT, "Hello " + name);
-        email.putExtra(Intent.EXTRA_TEXT, messageToEmail);
+        email.putExtra(Intent.EXTRA_TEXT, scoreToEmail);
 
         if (email.resolveActivity(getPackageManager()) != null) {
             startActivity(email);
